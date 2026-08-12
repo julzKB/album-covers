@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Album Covers</title>
+<style>
+  :root {
+    --bg: #fbfbf9; --fg: #1a1a1a; --muted: #6b6b6b;
+    --card: #ffffff; --line: #e4e4e0;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #141414; --fg: #ececec; --muted: #9a9a9a;
+            --card: #1d1d1d; --line: #2e2e2e; }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 3rem 1.5rem; background: var(--bg); color: var(--fg);
+    font: 16px/1.6 ui-sans-serif, -apple-system, "Helvetica Neue", sans-serif;
+  }
+  main { max-width: 1100px; margin: 0 auto; }
+  h1 { font-size: 1.4rem; font-weight: 650; margin: 0 0 .3rem; letter-spacing: -.01em; }
+  .sub { color: var(--muted); font-size: .9rem; margin: 0 0 2.5rem; }
+  .grid { display: grid; gap: 2rem; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
+  figure { margin: 0; background: var(--card); border: 1px solid var(--line);
+           border-radius: 10px; overflow: hidden; }
+  img { display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; }
+  figcaption { padding: .9rem 1rem 1rem; }
+  .album { font-weight: 600; font-size: .95rem; }
+  .artist { color: var(--muted); font-size: .85rem; margin-top: .1rem; }
+  code { display: block; margin-top: .7rem; padding: .5rem .6rem; font-size: .72rem;
+         background: var(--bg); border: 1px solid var(--line); border-radius: 6px;
+         overflow-x: auto; white-space: nowrap; font-family: ui-monospace, monospace; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Album Covers</h1>
+  <p class="sub">1024&times;1024 JPEG. Direct links below each cover.</p>
+  <div class="grid">
+
+    <figure>
+      <img src="Ground%20Control%20Lullabies/cover.jpg" alt="Ground Control Lullabies cover">
+      <figcaption>
+        <div class="album">Ground Control Lullabies</div>
+        <div class="artist">The Sputnik Cascades</div>
+        <code>Ground%20Control%20Lullabies/cover.jpg</code>
+      </figcaption>
+    </figure>
+
+    <figure>
+      <img src="Transmission%2047/cover.jpg" alt="Transmission 47 cover">
+      <figcaption>
+        <div class="album">Transmission 47</div>
+        <div class="artist">Onde Spatiale</div>
+        <code>Transmission%2047/cover.jpg</code>
+      </figcaption>
+    </figure>
+
+    <figure>
+      <img src="Vorkurs%20Sessions/cover.jpg" alt="Vorkurs Sessions cover">
+      <figcaption>
+        <div class="album">Vorkurs Sessions</div>
+        <div class="artist">Dessau Drift</div>
+        <code>Vorkurs%20Sessions/cover.jpg</code>
+      </figcaption>
+    </figure>
+
+  </div>
+</main>
+</body>
+</html>
