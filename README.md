@@ -20,6 +20,9 @@ Gallery: <https://www.julienleveugle.com/album-covers/>
 
 Spaces in the folder names are percent-encoded as `%20`.
 
+On the gallery page each card shows its full URL; click it to copy, or use
+**Copy all URLs** to grab every one at once, newline-separated.
+
 `https://julzkb.github.io/album-covers/…` also resolves, but issues a `301`
 redirect to the custom domain above — use the custom-domain URLs directly for
 anything that does not follow redirects.
