@@ -11,6 +11,7 @@ Gallery: <https://www.julienleveugle.com/album-covers/>
 
 | Album | Artist | URL |
 |---|---|---|
+| Cue & Underscore | The Wolf Tone Ensemble | `https://www.julienleveugle.com/album-covers/Cue%20%26%20Underscore/cover.jpg` |
 | Ground Control Lullabies | The Sputnik Cascades | `https://www.julienleveugle.com/album-covers/Ground%20Control%20Lullabies/cover.jpg` |
 | Transmission 47 | Onde Spatiale | `https://www.julienleveugle.com/album-covers/Transmission%2047/cover.jpg` |
 | Vorkurs Sessions | Dessau Drift | `https://www.julienleveugle.com/album-covers/Vorkurs%20Sessions/cover.jpg` |
