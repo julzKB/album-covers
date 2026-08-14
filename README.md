@@ -11,6 +11,7 @@ Gallery: <https://www.julienleveugle.com/album-covers/>
 
 | Album | Artist | URL |
 |---|---|---|
+| Atropa | Belladonna | `https://www.julienleveugle.com/album-covers/Atropa/cover.jpg` |
 | Cue & Underscore | The Wolf Tone Ensemble | `https://www.julienleveugle.com/album-covers/Cue%20%26%20Underscore/cover.jpg` |
 | Ground Control Lullabies | The Sputnik Cascades | `https://www.julienleveugle.com/album-covers/Ground%20Control%20Lullabies/cover.jpg` |
 | Mademoiselle Tokyo | Nouvelle Ginza | `https://www.julienleveugle.com/album-covers/Mademoiselle%20Tokyo/cover.jpg` |
