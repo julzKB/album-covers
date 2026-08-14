@@ -16,6 +16,7 @@ Gallery: <https://www.julienleveugle.com/album-covers/>
 | Ground Control Lullabies | The Sputnik Cascades | `https://www.julienleveugle.com/album-covers/Ground%20Control%20Lullabies/cover.jpg` |
 | Mademoiselle Tokyo | Nouvelle Ginza | `https://www.julienleveugle.com/album-covers/Mademoiselle%20Tokyo/cover.jpg` |
 | Nine Nights | Vardlokk | `https://www.julienleveugle.com/album-covers/Nine%20Nights/cover.jpg` |
+| Shuttering | Béton Brut | `https://www.julienleveugle.com/album-covers/Shuttering/cover.jpg` |
 | Transmission 47 | Onde Spatiale | `https://www.julienleveugle.com/album-covers/Transmission%2047/cover.jpg` |
 | Vorkurs Sessions | Dessau Drift | `https://www.julienleveugle.com/album-covers/Vorkurs%20Sessions/cover.jpg` |
 | Yellow Monitor Dreams | Static Age | `https://www.julienleveugle.com/album-covers/Yellow%20Monitor%20Dreams/cover.jpg` |
